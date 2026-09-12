@@ -1,0 +1,6 @@
+{
+  "name": "BidSure AI",
+  "description": "AI-Powered Integrated Bid Compliance & Verification Platform for GeM Procurement (SIH 2026 | SIH26100)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
